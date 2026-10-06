@@ -1,0 +1,7 @@
+﻿Reflection
+
+
+I used ChatGPT to check my work and explain a few C++ concepts. Some answers were much longer than I needed so I only used the parts I understood and that matched the assignment.
+One suggestion it gave was basically to add a lot more explanation than I thought was necessary. It also said to use double because the MPG answer can have decimals. I was already planning to use double so that mainly reassured me that I understood it correctly.
+I checked the programs by compiling and running them myself. sum gave 150 with the assigned values and 6 with my test values 2 and 4. mpg gave 19.5 MPG with the assigned values and 2.5 MPG with my test values 10 and 4. The results matched what I expected.
+We have already been using double, so this helped reinforce what it is used for. I still need more practice remembering C++ syntax without looking it up.
